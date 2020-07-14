@@ -46092,13 +46092,6 @@ function (_Signer) {
 
   return TronWebSigner;
 }(ethers["Signer"]);
-/*
-  // https://developers.tron.network/docs/trongridjs
-import TronGrid from 'trongrid';
-
-const tronGrid = new TronGrid(tronWeb)
-*/
-
 
 var TronProvider_TronProvider =
 /*#__PURE__*/
@@ -46376,7 +46369,7 @@ function (_BaseProvider) {
 
 
 var network2providerUrl = {
-  mainnet: 'https://api.trongrid.io',
+  mainnet: 'https://tron.oikos.cash',
   shasta: 'https://api.shasta.trongrid.io'
 }; // kev: for some reason tronWeb throws random errors when private key not set,
 // even when calling pure functions :/
