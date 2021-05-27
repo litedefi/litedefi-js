@@ -3,8 +3,8 @@
 [![npm version](https://badge.fury.io/js/%40oikos%2Foikos-js.svg)](https://badge.fury.io/js/%40oikos%2Foikos-js)
 [![Twitter Follow](https://img.shields.io/twitter/follow/oikos_cash.svg?label=oikos_cash&style=social)](https://twitter.com/oikos_cash)
 
-The Oikos-JS library provides a simple pre-packaged API to communicate
-with [Oikos](https://oikos.cash) on Tron. You can use it to contribute
+The LiteDeFi-JS library provides a simple pre-packaged API to communicate
+with [LiteDeFi] on Lite. You can use it to contribute
 to DeFi's growing synthetic asset ecosystem.
 
 This is particularly useful for hackathon teams to quickly `npm install @metronotes/oikos-js` and start building in just a few minutes.
